@@ -1,2 +1,2 @@
 # WareHouse-Project
-A on-demand service based app
+Phase_1_ Documentation
